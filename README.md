@@ -7,6 +7,8 @@ The data used in this analysis was retrieved from the data repository for the 20
 Please follow this link:
 https://github.com/CSSEGISandData/COVID-19 
 
+The data will be found by navigating to this path: COVID-19/csse_covid_19_data/csse_covid_19_time_series/
+
 ## Project Workflow
 
 1. Importing Data
