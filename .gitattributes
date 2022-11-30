@@ -1,2 +1,3 @@
-app/* linguist-documentation=false
-app/* linguist-vendored
+require 'mkmf'
+dir_config('linguist')
+create_makefile('linguist/linguist')
