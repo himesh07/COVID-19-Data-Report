@@ -1,4 +1,4 @@
-## Final Project 2: Reproducible Report on COVID-19 Data 
+## Final Project 2: COVID-19 Data Report
 
 # About Data
 
