@@ -15,6 +15,6 @@ The data will be found by navigating to this path: COVID-19/csse_covid_19_data/c
 2. Tidying and Transforming Data
 3. Visualizing Data
 4. Analyzing Data
-5. Modelling Dat
+5. Modelling Data
 6. Conclusions
 7. Bias
