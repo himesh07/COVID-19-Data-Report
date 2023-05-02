@@ -1,6 +1,6 @@
 # Final Project 2: COVID-19 Data Report
 
-This is a data analysis of the COVID-19 pandemic worldwide, based on data from various sources such as the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and the European Centre for Disease Prevention and Control (ECDC).
+This project is a data analysis of the COVID-19 pandemic worldwide, based on data from various sources such as the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and the European Centre for Disease Prevention and Control (ECDC).
 
 Here's a brief overview of what the report covers:
 
